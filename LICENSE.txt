@@ -1,4 +1,6 @@
-These example study configurations and related content files are released under CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International; see https://creativecommons.org/licenses/by-sa/4.0/).
+These example study configurations and related content files are
+released under CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike
+4.0 International; https://creativecommons.org/licenses/by-sa/4.0/).
 
 Attribution-ShareAlike 4.0 International
 
