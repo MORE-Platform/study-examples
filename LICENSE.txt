@@ -1,6 +1,9 @@
-These example study configurations and related content files are
-released under CC BY 4.0 (Creative Commons Attribution
-4.0 International; https://creativecommons.org/licenses/by/4.0/).
+These example study configurations and related files are under copyright
+by the Ludwig Boltzmann Institute for Digital Health and Prevention -- A
+research institute of the Ludwig Boltzmann Gesellschaft, Österreichische
+Vereinigung zur Förderung der wissenschaftlichen Forschung.
+Files in this repository are released under CC BY 4.0 (Creative Commons
+Attribution 4.0 Internat.; https://creativecommons.org/licenses/by/4.0/).
 
 Attribution 4.0 International
 
